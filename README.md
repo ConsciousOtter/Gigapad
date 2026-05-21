@@ -6,7 +6,7 @@ It is designed as a compact, programmable input device using QMK firmware, suita
 
 ---
 
-## 🧱 Case & Assembly Fit
+## Case & Assembly Fit
 
 ![Overall Hackpad](Images/overall_hackpad.png)
 
@@ -38,7 +38,7 @@ The schematic shows:
 
 ---
 
-## 🧩 PCB
+## PCB
 
 ![PCB](Images/pcb.png)
 
@@ -50,7 +50,7 @@ The PCB is a 2-layer board designed for JLCPCB manufacturing with:
 ---
 
 
-## 🧾 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Part | Quantity | Description |
 |----|----|----|
@@ -67,7 +67,7 @@ The PCB is a 2-layer board designed for JLCPCB manufacturing with:
 
 ---
 
-## 💻 Firmware
+## Firmware
 
 Gigapad runs **QMK firmware**, configured for:
 - 3×3 key matrix
