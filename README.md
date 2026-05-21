@@ -24,7 +24,7 @@ Features:
   
 ---
 
-## 📐 Schematic
+## Schematic
 
 ![Schematic](Images/schematic.png)
 
